@@ -24,6 +24,7 @@ Este archivo demuestra **todo el potencial de los archivos Markdown** (`.md`), u
 ## 🔤 Encabezados
 
 ```markdown
+```
 # H1
 ## H2
 ### H3
@@ -74,17 +75,17 @@ Código en línea: console.log("Hola Mundo")
 
 Bloque de código con sintaxis:
 
----
+```
 git init
 git add .
 git commit -m "Primer commit"
----
----
+```
+```
 def saludar():
     return "Hola Markdown 🚀"
 
 print(saludar())
----
+```
 
 📊 Tablas
 
@@ -125,7 +126,7 @@ Markdown es simple, poderoso y flexible.
 Perfecto para documentación, notas, blogs y cualquier lugar donde quieras texto con estilo pero ligero. 🚀
 
 
----
+```
 
 👉 ¿Quieres que este `README.md` te lo prepare como archivo descargable para que lo uses directamente en tu repositorio?
-
+```
