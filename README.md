@@ -95,6 +95,8 @@ print(saludar())
 | JavaScript| Web Development  | ⭐⭐⭐⭐  |
 | C         | Sistemas         | ⭐⭐⭐   |
 
+```
+```
 ✅ Checklists
 
  Aprender Markdown
@@ -102,7 +104,11 @@ print(saludar())
  Crear README
 
  Conquistar el mundo 🌍
-
+def saludar():
+    return "Hola Markdown 🚀"
+```
+```
+print(saludar())
 🎨 Diagramas con Mermaid
  graph TD;
     A[Inicio] --> B{Tienes café?};
@@ -113,13 +119,14 @@ print(saludar())
 
 🔽 Secciones Colapsables
 
+```
 <details>
   <summary>Haz clic para expandir</summary>
 
   Aquí puedes poner texto, listas, código, imágenes ¡lo que quieras!
 
 </details>
-
+```
 🎉 Conclusión
 
 Markdown es simple, poderoso y flexible.
